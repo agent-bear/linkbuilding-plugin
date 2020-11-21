@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+
+    "name": "linkbuilding plugin",
+    "description": "lorem ipsun dolor sit amet",
+    "version": "0.1",
+
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabs",
+        "storage"
+    ]
+}
